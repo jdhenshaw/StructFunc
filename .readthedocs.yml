@@ -8,8 +8,8 @@ python:
   install:
     - method: pip
       path: .
-      extra_requirements:
-        - docs
-        - all
+#      extra_requirements:
+#        - docs
+#        - all
 
 formats: []
